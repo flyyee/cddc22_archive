@@ -1,0 +1,1 @@
+My write-ups are available at gerrardtai.com/subcategories/ctfs.html
